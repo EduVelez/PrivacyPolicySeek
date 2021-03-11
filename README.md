@@ -5,15 +5,16 @@
 ### Principle 1 Purpose of collection of personal information
  - The organisations must only collect personal information if it is for a lawful purpose connected with their functions or activities, and the information is necessary for that purpose. The goal for is collecting and use minimal data of the individuals information. 
 
-- [ ] example 1
-- [ ] example 2
+- [ ] Any Personal Information and Personal Data collected from the user will be used by Seek in accordance with and as described in this Privacy Statement.
+- [ ] SEEK collects Personal Information and Personal Data from Site visitors for the purposes of providing services to the users.
 
-### Principle 2
+### Principle 4 Manner of collection of personal information
+ - The information must not be collected by unlawful, unfair or unreasonably intrusive means. When an organisation collects information about a person, it has to do so in a way that is fair and legal.
 
-- [ ] example 1
-- [ ] example 2
+- [ ] Personal Data that Seek collects about the user, in the manner described in the “Access to Your Information” paragraph above and under the methods considered fair.
+- [ ] The purpose for collection, the degree to which the collection intrudes on privacy, and the time and place it was collected. 
 
-### Principle 3
+### Principle 5 Storage and security of personal information
 
 - [ ] example 1
 - [ ] example 2
