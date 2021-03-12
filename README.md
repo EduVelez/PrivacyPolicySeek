@@ -15,9 +15,9 @@
 - [ ] The purpose for collection, the degree to which the collection intrudes on privacy, and the time and place it was collected. 
 
 ### Principle 5 Storage and security of personal information
-
-- [ ] example 1
-- [ ] example 2
+ - The organisations must ensure there are safeguards in place that are reasonable in the circumstances to prevent loss, misuse or disclosure of personal information.
+- [ ] SEEK takes all reasonable steps to ensure the security of our system and to protect your information from misuse, interference and loss as well as unauthorised access, modification or disclosure.
+- [ ] SEEK allows you to access your information at any time to keep it accurate and up to date.
 
 ### Principle 4
 
