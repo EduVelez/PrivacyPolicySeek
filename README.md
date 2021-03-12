@@ -30,6 +30,35 @@
 
 ### Principal 8: Accuracy
 
-- It is the agencies responsibility to ensure the personal information is accurate before using it.
+ - It is the agencies responsibility to ensure the personal information is accurate before using it.
 - [ ] The agency that holds the information must not take any further steps that are reasonable with individuals permission.
 - [ ] SEEK allows you to access your information at any time to keep it accurate and up to date.
+
+## Feedback and Complaints about privacy and the SEEK website
+
+ - SEEK welcomes ideas and feedback about all aspects of the Site. SEEK stores feedback that users send to us. This feedback may be used to administer and refine the service we provide and may be shared with SEEK partners either in aggregate form or with specific identifying characteristics removed.
+ 
+If you have any complaints about our dealings with your Personal Information including any breaches by us of any privacy laws or any questions regarding this Privacy Statement you are able to submit that complaint or query by contacting us at privacy@seek.com.au or by telephone or post using the methods detailed in the “Contact Us” paragraph below.
+
+Any complaints received by us will be referred to our compliance team for prompt investigation and a written response will be provided to you as soon as possible.
+
+## Privacy & Site Changes
+
+- From time to time, SEEK may review and update its Privacy Statement. Revised versions will be made available on the Site.
+
+## Contact Us
+If you have any feedback or questions about this Privacy Statement, the practices of this Site, or your dealings with SEEK, you can contact us in the following ways:
+
+Email: usersupport@seek.co.nz
+
+Phone: 0508 733 569
+
+Post: Customer Service
+SEEK Limited (NZ)
+PO Box 9184, Newmarket
+Auckland
+New Zealand
+
+## More Information About Privacy
+
+For more information about privacy issues in New Zealand and protecting your privacy, visit the New Zealand Privacy Commissioner’s website.
