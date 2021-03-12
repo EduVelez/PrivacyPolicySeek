@@ -74,22 +74,22 @@ If users want to know more about the data SEEK collects they have to visit SEEKâ
 
 ## How the policy implements the chosen principles.
 
-# Principal 1: 
+### Principal 1: 
 
 SEEK will not request any information that is not relevant to the functions for which the company is intended. In this way, it guarantees that all the data collected will not be used for other purposes and respects the users' privacy.
 
-# Principal 4: 
+### Principal 4: 
 
 The ways in which user data and information is collected are always subject to the policies of New Zealand Law. The collection intrudes on privacy, and the time and place it was collected. 
 
-# Principal 5: 
+### Principal 5: 
 
 SEEK is committed to complying in all respects with any requirements of the Privacy Act or the GDPR. Users can also play an important role in keeping the Personal Information secure, by maintaining the confidentiality of any password and accounts used on the Site. 
 
-# Principal 6: 
+### Principal 6: 
 
 SEEK allows the users to access their information at any time. All information the company holds for users is stored on secure servers that are protected in controlled facilities. 
 
-# Principal 8: 
+### Principal 8: 
 
 SEEK is committed to maintaining user information accurately to match the data provided at all times.  
