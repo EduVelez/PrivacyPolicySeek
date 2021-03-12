@@ -80,16 +80,16 @@ SEEK will not request any information that is not relevant to the functions for 
 
 # Principal 4: 
 
-Las maneras en que se recolecta los datos y la información de los usuarios siempre están sujetas a las políticas de la Legislación de Nueva Zelanda. as the purpose for collection, the degree to which the collection intrudes on privacy, and the time and place it was collected. 
+The ways in which user data and information is collected are always subject to the policies of New Zealand Law. The collection intrudes on privacy, and the time and place it was collected. 
 
 # Principal 5: 
 
-The company is aware about the confidentiality of their personal information. From both Technical and systems perspective, is to make sure of every information is well protected. They advise as well to protect and not share the login and password publicly. 
+SEEK is committed to complying in all respects with any requirements of the Privacy Act or the GDPR. Users can also play an important role in keeping the Personal Information secure, by maintaining the confidentiality of any password and accounts used on the Site. 
 
 # Principal 6: 
 
-The website has access to the individual’s personal information to carry transactions troubleshooting, testing and survey purposes presented in the most effective manner for the individual and his/her computer. 
+SEEK allows the users to access their information at any time. All information the company holds for users is stored on secure servers that are protected in controlled facilities. 
 
 # Principal 8: 
 
-The details of the personal information given to the website must be identical from a purchase that is made from the same individual.  
+SEEK is committed to maintaining user information accurately to match the data provided at all times.  
