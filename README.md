@@ -40,14 +40,14 @@
  
 If you have any complaints about our dealings with your Personal Information including any breaches by us of any privacy laws or any questions regarding this Privacy Statement you are able to submit that complaint or query by contacting us at privacy@seek.com.au or by telephone or post using the methods detailed in the “Contact Us” paragraph below.
 
-Any complaints received by us will be referred to our compliance team for prompt investigation and a written response will be provided to you as soon as possible.
+Any complaints received by us will be referred to our compliance team for prompt investigation and a written response will be provided to the users as soon as possible.
 
 ## Privacy & Site Changes
 
 - From time to time, SEEK may review and update its Privacy Statement. Revised versions will be made available on the Site.
 
 ## Contact Us
-If you have any feedback or questions about this Privacy Statement, the practices of this Site, or your dealings with SEEK, you can contact us in the following ways:
+If users have any feedback or questions about this Privacy Statement, the practices of this Site, or their dealings with SEEK, they can contact Seek in the following ways:
 
 Email: usersupport@seek.co.nz
 
@@ -62,3 +62,34 @@ New Zealand
 ## More Information About Privacy
 
 For more information about privacy issues in New Zealand and protecting your privacy, visit the New Zealand Privacy Commissioner’s website.
+
+
+## Chosen Website privacy policy
+
+Seek only collect information about users and their career.
+
+When users interact with the SEEK website or app, whether that’s to apply for a role, update their profile, click on an email from SEEK, upload a resume or just browse the site, they are providing SEEK with helpful information about them and their career.
+The information SEEK collects, including users' current role and industry and the types of jobs they’re looking for, help SEEK understands what users are searching for so that the company can support them in reaching their career goals faster.
+If users want to know more about the data SEEK collects they have to visit SEEK’s Privacy Policy
+
+## How the policy implements the chosen principles.
+
+# Principal 1: 
+
+SEEK will not request any information that is not relevant to the functions for which the company is intended. In this way, it guarantees that all the data collected will not be used for other purposes and respects the users' privacy.
+
+# Principal 4: 
+
+Las maneras en que se recolecta los datos y la información de los usuarios siempre están sujetas a las políticas de la Legislación de Nueva Zelanda. as the purpose for collection, the degree to which the collection intrudes on privacy, and the time and place it was collected. 
+
+# Principal 5: 
+
+The company is aware about the confidentiality of their personal information. From both Technical and systems perspective, is to make sure of every information is well protected. They advise as well to protect and not share the login and password publicly. 
+
+# Principal 6: 
+
+The website has access to the individual’s personal information to carry transactions troubleshooting, testing and survey purposes presented in the most effective manner for the individual and his/her computer. 
+
+# Principal 8: 
+
+The details of the personal information given to the website must be identical from a purchase that is made from the same individual.  
